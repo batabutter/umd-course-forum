@@ -7,6 +7,15 @@ import ".././global.css";
 
 import DynamicButton from "../components/DyanmicButton";
 import { images } from '../constants';
+/*
+Short term TODO: 
+- Convert the main page into its own component
+- Create the base for the main forum page (visually)
+- Make posting mechanics work (hookup app to a database)
+- Write the sign in page and make sure the main page properly redirects
+
+
+*/
 
 export default function App() {
   return (
